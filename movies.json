@@ -1,4 +1,9 @@
 {
-  "disney": ["Frozen 2", "Moana", "Coco", "Toy Story 4", "Encanto", "Luca", "Raya", "Zootopia", "Tangled", "Brave"],
-  "anime": ["Your Name", "Spirited Away", "Suzume", "A Silent Voice", "Weathering With You"]
+  "disney": [
+    { "title": "Frozen 2", "poster": "https://link-gambar-frozen.jpg" },
+    { "title": "Moana", "poster": "https://link-gambar-moana.jpg" }
+  ],
+  "anime": [
+    { "title": "Your Name", "poster": "https://link-gambar-yourname.jpg" }
+  ]
 }
