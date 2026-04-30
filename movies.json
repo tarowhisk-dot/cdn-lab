@@ -1,7 +1,7 @@
 {
   "disney": [
     { "title": "Frozen 2", "poster": "scale.webp" },
-    { "title": "Moana", "poster": "Moana_.jpg" }
+    { "title": "Moana", "poster": "Moana.jpg" }
   ],
   "anime": [
     { "title": "Your Name", "poster": "https://link-gambar-yourname.jpg" }
